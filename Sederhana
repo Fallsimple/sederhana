@@ -1,0 +1,122 @@
+local info = gg.getTargetInfo()
+gg.alert(" ★᭄ꦿ᭄ꦿ  🇫 🇦 🇲 🇮 🇱 🇾 ★᭄ꦿ᭄ꦿ\n\n━─━─━─━─━─━─≪❪ ᵔᴥᵔ ❫≫─━─━─━─━─━─━\n          ❖•ೋ° Apps Info °ೋ•❖༊\n          Package Name : "..info.packageName.."\n          Game Version : "..info.versionName.."\n          GameGuardian Version : "..gg.VERSION.." \n          GameGuardian Build : "..gg.BUILD.."\n━─━─━─━─━─━─≪❪ ᵔᴥᵔ ❫≫─━─━─━─━─━─━")
+gg.alert("                 ★᭄ꦿ᭄ꦿ   🇼 🇦 🇷 🇳 🇮 🇳 🇬  ★᭄ꦿ᭄ꦿ\n━─━─━─━─━─━─━─≪❪ ᵔᴥᵔ ❫≫─━─━─━─━─━─━─━\n𝐏𝐄𝐑𝐇𝐀𝐓𝐈𝐊𝐀𝐍 𝐓𝐀𝐍𝐃𝐀 [ ∅ ] 𝐃𝐀𝐍 [ ☠ ] 𝐏𝐀𝐃𝐀 𝐅𝐈𝐓𝐔𝐑 𝐂𝐇𝐄𝐀𝐓. 𝐉𝐈𝐊𝐀 𝐓𝐀𝐍𝐃𝐀 [ ∅ ] 𝐑𝐀𝐖𝐀𝐍 𝐊𝐄 𝐑𝐄𝐏𝐎𝐑𝐓 𝐃𝐀𝐍 𝐓𝐀𝐍𝐃𝐀 [ ☠ ] 𝐑𝐀𝐖𝐀𝐍 𝐊𝐄 𝐁𝐀𝐍 5𝐃/10𝐃/30𝐃. 𝐉𝐀𝐃𝐈 𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐒𝐄𝐁𝐀𝐈𝐊-𝐁𝐀𝐈𝐊𝐍𝐘𝐀. 𝐁𝐄 𝐒𝐌𝐀𝐑𝐓 𝐁𝐑𝐎𝐓!! 𝐎𝐊𝐄 𝐁𝐑𝐎𝐓...\n━─━─━─━─━─━─━─≪❪ ᵔᴥᵔ ❫≫─━─━─━─━─━─━─━")
+
+function HOME()
+ hack fb
+"☠☛ MENU FITUR ",
+"☠☛ SUB MENU ",
+"━─━──────↪️🇪 🇽 🇮 🇹 ↩️──────━─━"
+}, nil, os.date("*╔═══════════❖•ೋ° °ೋ•❖═══════════╗*\n ❦🆈🅾🆄🆃🆄🅱🅴 🅲🅷🅰🅽🅽🅴🅻 : 🅱🅰🅽🅶 🆃🅰🅼🅰❦\n 🄳🄾🄽🅃 🄵🄾🅁🄶🄴🅃 🅃🄾 🅂🅄🄱🅂🄲🅁🄸🄱🄴 🄱🅁🄾\n             ⏱️ Today : %Y/%m/%d Time: %H:%M:%S ⏱️\n ━─━─────────༺ᴀɪᴍʟᴏᴄᴋ༻──────────━─━"))
+if hack id 
+end
+if target
+AIMG()
+end
+Grup
+EXIT()
+end
+TAMA = -1
+end
+
+function AIML()
+gg.clearResults()
+gg.setRanges(gg.REGION_...Type Region....)
+gg.searchNumber("...Value dan grub search...", gg.REGION_....Type Region...)
+gg.refineNumber("...Value yg mau kmu cari...", gg.REGION_....Type Region...)
+gg.getResults(...jumlah hasil...)
+gg.editAll("...Value yg mau kmu edit...", gg.REGION_....Type Region...)
+gg.clearResults()
+gg.toast("️.....nama fitur....")
+gg.sleep(800)
+gg.toast("Ⓑⓨ ➠ ★᭄ꦿ᭄ꦿ.....Kasih nama kalian.....★᭄ꦿ᭄ꦿ")
+gg.sleep(800)
+end
+
+function AIMG()
+AH = gg.multiChoice({
+"✪ • Edit Menu Fitur 1",
+"✪ • Edit Menu Fitur 2",
+"🔙 ʙᴀᴄᴋ"
+}, nil, os.date("*╔═══════════❖•ೋ° °ೋ•❖═══════════╗*\n ❦🆈🅾🆄🆃🆄🅱🅴 🅲🅷🅰🅽🅽🅴🅻 : 🅱🅰🅽🅶 🆃🅰🅼🅰❦\n 🄳🄾🄽🅃 🄵??🅁🄶🄴🅃 🅃🄾 🅂🅄🄱🅂🄲🅁🄸🄱🄴 🄱🅁🄾\n             ⏱️ Today : %Y/%m/%d Time: %H:%M:%S ⏱️\n ━─━───────────༺ɢᴀᴍᴇ༻──────────━─━"))
+if AH == nil then
+else
+if AH[1] == true then
+AIMG1()
+end
+if AH[2] == true then
+AIMG2()
+end
+if AH[3] == true then
+HOME()
+end
+end
+TAMA = -1
+end
+
+function AIMG1()
+gg.clearResults()
+gg.setRanges(gg.REGION_...Type Region....)
+gg.searchNumber("...Value dan grub search...", gg.REGION_...Type Region...)
+gg.refineNumber("...Value yg mau kmu cari...", gg.REGION_...Type Region....)
+gg.getResults(...jumlah hasil value..)
+gg.editAll("...Value yg mau kmu edit...", gg.REGION_...Type Region....)
+gg.clearResults()
+gg.toast("️.....nama fitur....")
+gg.sleep(800)
+gg.toast("Ⓑⓨ ➠ ★᭄ꦿ᭄ꦿ.....Kasih nama kalian.....★᭄ꦿ᭄ꦿ")
+gg.sleep(800)
+end
+
+function AIMG2()
+gg.clearResults()
+gg.setRanges(gg.REGION_....Type Region...)
+gg.searchNumber("...Value dan grub search...", gg.REGION_....Type Region...)
+gg.refineNumber("...Value yg mau kmu cari...", gg.REGION_....Type Region...)
+gg.getResults(...jumlah hasil value...)
+gg.editAll("...Value yg mau kmu edit...", gg.REGION_....Type Region...)
+gg.clearResults()
+gg.toast("️.....nama fitur....")
+gg.sleep(800)
+gg.toast("Ⓑⓨ ➠ ★᭄ꦿ᭄ꦿ.....Kasih nama kalian.....★᭄ꦿ᭄ꦿ")
+gg.sleep(800)
+end
+
+function EXIT()
+EXP =   gg.alert("*╔═══════════❖•ೋ° °ೋ•❖═══════════╗*\n ❦🆈🅾🆄🆃🆄🅱🅴 🅲🅷🅰🅽🅽🅴🅻 : 🅱🅰🅽🅶 🆃🅰🅼🅰❦\n 🄳🄾🄽🅃 🄵🄾🅁🄶🄴🅃 🅃🄾 🅂🅄🄱🅂🄲🅁🄸🄱🄴 🄱🅁🄾\n ━─━───────────༺ᴇxɪᴛ༻──────────━─━","EXIT","BACK","COPY LINK YOUTUBE")
+if EXP == 1 then
+EX()
+end
+if EXP == 2 then
+HOME()
+end
+if EXP == 3 then
+COPY()
+end
+end
+
+function COPY()
+  gg.copyText("https://www.youtube.com/BangTAMA", false)
+  gg.toast("🅨🅞🅤🅣🅤🅑🅔 ➧ 🅑🅐🅝🅖 🅣🅐🅜🅐")
+end 
+
+function EX()
+  gg.toast("🦇sᴄʀɪᴘᴛ ᴇxɪᴛ🦇")
+print(os.date("🦇sᴄʀɪᴘᴛ ᴇxɪᴛ🦇\n⏱️ Today : %Y/%m/%d Time: %H:%M:%S ⏱️\n🄼🅈 🄽🅄🄼🄱🄴🅁 : 𝟎𝟖𝟐𝟐********"))
+print("𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃  : ★᭄ꦿ᭄ꦿᗷᗩᑎᏀ Ꭲᗩᗰᗩ★᭄ꦿ᭄ꦿ\n𝔽ℝ𝕆𝕄 𝕀ℕ𝔻𝕆ℕ𝔼𝕊𝕀𝔸 🇮🇩  \n➡ 𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐐𝐔𝐀𝐃 𝐆𝐀𝐙𝐀 🇮🇩🇮🇩\n\n        ➧ Ⓢⓒⓡⓘⓟⓣ Ⓑⓨ ➠\n\n                    ★᭄ꦿ᭄ꦿㄒ卂爪卂★᭄ꦿ᭄ꦿ\n")
+  gg.skipRestoreState()
+  gg.setVisible(true)
+os.exit()
+HOME()
+end
+
+while true do
+if gg.isVisible(true) then
+TAMA = 1
+gg.setVisible(false)
+end
+gg.clearResults()
+if TAMA == 1 then
+HOME()
+end
+end
